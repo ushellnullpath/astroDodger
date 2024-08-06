@@ -1,0 +1,6 @@
+pygame-ce
+tkinter
+pillow
+mediapipe
+opencv-python
+absl-py
